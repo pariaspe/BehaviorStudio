@@ -14,7 +14,7 @@ feature_row:
     alt: "Test your Network"
     title: "Test your Network"
     excerpt: "Load, run, get results and compare your network in different environments."
-    url: "/test_your_network/"
+    url: "/quick_start/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
